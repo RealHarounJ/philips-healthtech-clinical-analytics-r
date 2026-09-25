@@ -166,7 +166,7 @@ Non servono configurazioni complesse. Con R installato:
 
 Mi chiamo **Haroun Jaafar**, studente magistrale in *Digital Economics and Business* all'Università Politecnica delle Marche (UNIVPM).
 
-Mi appassiona l'intersezione tra **modelli quantitativi, biostatistica, programmazione in R/Python e impatto economico aziendale**. Il mio obiettivo professionale è lavorare nell'analisi dati clinica e nella digital health, in contesti internazionali all'avanguardia come **Philips**.
+Mi appassiona l'intersezione tra **modelli quantitativi, biostatistica, programmazione in R/Python e impatto economico aziendale**. 
 
 * **GitHub:** [@RealHarounJ](https://github.com/RealHarounJ)
 * **Email:** [harounjaafar3@gmail.com](mailto:harounjaafar3@gmail.com)
